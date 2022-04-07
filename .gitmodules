@@ -1,6 +1,10 @@
 [submodule "mySt"]
 	path = tools/mySt
 	url = https://github.com/RayZ0rr/mySt.git
+	branch = current
+	update = rebase
 [submodule "myDmenu"]
 	path = tools/myDmenu
 	url = https://github.com/RayZ0rr/myDmenu.git
+	branch = current
+	update = rebase
