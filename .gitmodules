@@ -1,0 +1,6 @@
+[submodule "mySt"]
+	path = tools/mySt
+	url = https://github.com/RayZ0rr/mySt.git
+[submodule "myDmenu"]
+	path = tools/myDmenu
+	url = https://github.com/RayZ0rr/myDmenu.git
